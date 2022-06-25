@@ -57,7 +57,7 @@ function makeSound(key){
 			default: console.log(key);
 		}
 
-		}mm
+		}m
 
 
 
@@ -68,6 +68,6 @@ function buttonAnimation(pressedKey){
 
 	setTimeout(function(){
 		activeKey.classList.remove('pressed')
-	}, 100) a
+	}, 100) 
 
 }
